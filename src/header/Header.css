@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    border: 2px solid black;
+    border-radius: 10px ;
+    justify-content: center;
+    background-color: aqua;
+    
+}
+h1{
+    margin-right: 40px;
+    text-shadow: 3px 5px 4px;
+
+}
+img{
+    padding-top: 20px;
+    border-radius: 50px;
+}
